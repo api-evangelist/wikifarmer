@@ -1,7 +1,25 @@
 aid: wikifarmer
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/wikifarmer.png
 name: Wikifarmer
-description: Wikifarmer is a company surfaced as a portfolio company of point-nine and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Wikifarmer is a global agricultural platform that connects producers
+  with buyers through a B2B marketplace for agricultural products and educates farmers
+  through expert-reviewed content. It provides practical agricultural knowledge, market
+  access, and price insights for farmers, agribusinesses, traders, and food companies
+  worldwide, with a multilingual educational library covering crop cultivation, livestock,
+  sustainability, soil management, irrigation, pest control, and post-harvest handling,
+  alongside a global marketplace connecting suppliers and buyers and a price-insights
+  service for agricultural commodities.
 url: https://raw.githubusercontent.com/api-evangelist/wikifarmer/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +29,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Agriculture
+- Agtech
+- Marketplace
+- Farming
+- B2B
+- Education
+- Commodities
+- Price Data
+- Sustainability
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +49,15 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://wikifarmer.com/market/en/about-us
+  url: https://wikifarmer.com/en
+- type: Support
+  url: https://help.wikifarmer.com/en/knowledge/buyers-faq
+- type: LLMsTxt
+  url: llms/wikifarmer-llms.txt
+- type: DomainSecurity
+  url: security/wikifarmer-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

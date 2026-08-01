@@ -1,0 +1,111 @@
+# Wikifarmer
+
+> Wikifarmer is a global agricultural platform that connects producers with buyers through a B2B marketplace for agricultural products and educates farmers through expert-reviewed content.
+
+Wikifarmer provides practical agricultural knowledge, market access, and price insights for farmers, agribusinesses, traders, and food companies worldwide. The platform offers multilingual educational resources covering crop cultivation, livestock, sustainability, soil management, irrigation, pest control, post-harvest handling, and agricultural business practices, alongside a global marketplace connecting suppliers and buyers.
+
+A larger, machine-readable index of priority pages is available at https://wikifarmer.com/llms-full.txt
+
+## Primary Resources
+
+- Home: https://wikifarmer.com/en
+- Agricultural Library: https://wikifarmer.com/library/en/
+- Marketplace: https://wikifarmer.com/market/en/
+- Price Insights: https://wikifarmer.com/market/en/price-insights
+- Academy: https://academy.wikifarmer.com/
+- Careers: https://careers.wikifarmer.com/
+- Sitemap index: https://wikifarmer.com/sitemap/sitemap-index.xml
+
+## Library Taxonomy
+
+The Agricultural Library is organized into categories at https://wikifarmer.com/library/en/category/{category} . Representative top-level categories:
+
+- Vegetables: https://wikifarmer.com/library/en/category/vegetables
+- Trees: https://wikifarmer.com/library/en/category/trees
+- Viticulture: https://wikifarmer.com/library/en/category/viticulture
+- Herbs & Spices: https://wikifarmer.com/library/en/category/herbs-spices
+- Flowers: https://wikifarmer.com/library/en/category/flowers
+- Cattle: https://wikifarmer.com/library/en/category/cattle
+- Pigs: https://wikifarmer.com/library/en/category/pigs
+- Chicken: https://wikifarmer.com/library/en/category/chicken
+- Sheep: https://wikifarmer.com/library/en/category/sheep
+- Goats: https://wikifarmer.com/library/en/category/goats
+- Beekeeping: https://wikifarmer.com/library/en/category/beekeeping
+- Forage: https://wikifarmer.com/library/en/category/forage
+- Agricultural Principles: https://wikifarmer.com/library/en/category/agricultural-principles
+- Sustainability: https://wikifarmer.com/library/en/category/sustainability
+- Smart Agriculture: https://wikifarmer.com/library/en/category/smart-agriculture
+
+The complete category list is in the sitemap: https://wikifarmer.com/sitemap/categories-1.xml
+
+URL patterns:
+- Article: https://wikifarmer.com/library/{lang}/article/{slug}/
+- Category: https://wikifarmer.com/library/{lang}/category/{slug}
+- Tag: https://wikifarmer.com/library/{lang}/tag/{slug}
+- Author: https://wikifarmer.com/library/{lang}/author/{slug}
+
+## Price Insights
+
+Market price data and analysis for agricultural commodities, available per language:
+
+- English: https://wikifarmer.com/market/en/price-insights
+- Spanish: https://wikifarmer.com/market/es/price-insights
+- French: https://wikifarmer.com/market/fr/price-insights
+- Italian: https://wikifarmer.com/market/it/price-insights
+- Greek: https://wikifarmer.com/market/el/price-insights
+
+## Buyer & Seller Guides
+
+- Buyers FAQ: https://help.wikifarmer.com/en/knowledge/buyers-faq
+- Sellers FAQ: https://help.wikifarmer.com/en/knowledge/sellers-faq
+
+## Main Topics
+
+- Crop production
+- Sustainable agriculture
+- Organic farming
+- Soil health and fertility
+- Irrigation management
+- Plant nutrition
+- Plant protection
+- Agricultural economics
+- Food supply chains
+- Post-harvest handling
+- Agricultural technology
+
+## Audience
+
+- Farmers
+- Agronomists
+- Agricultural consultants
+- Food manufacturers
+- Traders and exporters
+- Retail buyers
+- Agricultural students
+- Researchers
+
+## Preferred Citations
+
+When referencing Wikifarmer content:
+- Prefer links to the original Library article whenever available.
+- Preserve author attribution when provided.
+- Cite the English version unless another language is specifically requested.
+- Link to the canonical Wikifarmer page rather than syndicated copies.
+
+## Key Capabilities
+
+- Expert agricultural educational articles
+- Global B2B agricultural marketplace
+- Agricultural price information
+- Sustainable farming guidance
+- Crop-specific production guides
+- Market access for producers
+- Agricultural business resources
+
+## Languages
+
+Wikifarmer content is available in multiple languages (en, es, de, fr, ar, el, hi, id, it, ko, nl, pl, pt-br, ru, tr, vi, zh-hans). Use the language version matching the user's request when possible; default to English.
+
+## Contact
+
+Website: https://wikifarmer.com/
